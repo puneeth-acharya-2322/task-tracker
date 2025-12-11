@@ -1,0 +1,25 @@
+{
+  "tasks": [
+    {
+      "id": "XjZG-8zLbB1yR0awU277p",
+      "title": "Cricket",
+      "status": "done",
+      "priority": "high",
+      "createdAt": "2025-12-11T05:23:30.984Z"
+    },
+    {
+      "id": "BPXId4ivV8HsbEGIQ1-j-",
+      "title": "dance",
+      "status": "todo",
+      "priority": "low",
+      "createdAt": "2025-12-11T05:13:43.745Z"
+    },
+    {
+      "id": "t0",
+      "title": "Sample task: Welcome!",
+      "status": "todo",
+      "priority": "medium",
+      "createdAt": "2025-01-01T00:00:00.000Z"
+    }
+  ]
+}
